@@ -1,1 +1,2 @@
-Hello GitHub
+Temperaturmessung zwei Sensoren im Minus - Plusbereich 
+Visuelle Ausgabe in 7Segmentanzeige

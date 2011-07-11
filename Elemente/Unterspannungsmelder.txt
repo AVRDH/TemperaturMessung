@@ -1,0 +1,21 @@
+4	Transistor BC558C 
+1	Widerstand 470 Ohm	 
+1	Widerstand 4,7 kOhm	 
+1	Widerstand 220 kOhm	 
+2	Widerstand 470 kOhm	 
+2	Widerstand 1,0 MOhm	 
+1	Elko 2,2 µF/16V	 
+1	Trimmpotentiometer 1,0 MOhm	
+1	Led 3mm
+
+Kondensator Ladezeit : t= R * C (Vorwiderstand,Kondensator)
+
+
+D1 	leuchtet dauerhaft bis Spannung unter Schwellwert
+
+P1 	Einstellung des Schwellwertes
+
+R7 	Vorwiderstand D1, auf 9V ausgelegt
+
+C1 	Blinkgeschwindigkeit 
+	Kondensator Ladezeit : t= R * C (Vorwiderstand,Kondensator)

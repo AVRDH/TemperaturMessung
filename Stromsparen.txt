@@ -1,0 +1,10 @@
+Sleep Mode
+http://www.mikrocontroller.net/articles/Sleep_Mode
+
+Die Pull-ups bei unbenutzten Pins EIN-zuschalten spart laut einer Application Note von Atmel Strom
+
+Alternative zu 7805 Spannungsregler ?
+
+stepdown-regler
+ic LM2678 8-40V 5V 5A
+ic lm2674 8-40V 5V 500mA

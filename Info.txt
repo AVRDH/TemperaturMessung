@@ -7,3 +7,5 @@ Min-Max Alarm - Optisch (bis Reset) |Akustisch (Zeit, wenn Optisch auf Null)
 Messung  auf Tastendruck | nach selbst festgelegtem Zeitintervall
 
 Temperaturanzeige  Sensor X : Min, Max, Temperatur, (Set Min,Max)
+
+Unterspannungsmelder Ok|Tauschen 
